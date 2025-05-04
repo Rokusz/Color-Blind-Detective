@@ -26,6 +26,7 @@
 <p align="center">
   <video src='https://github.com/user-attachments/assets/d20724e4-34dd-461c-b861-5edff356f863' width=180/>
 </p>
+    
 ### Design
 
 <p align="justify"> I have a condition where I get temporary retina sunburn induced colorblindness. In bright sun, I can’t see much green and orange. Naturally, it was my suggestion to make our project revolve around color blindness. The team also liked my suggestion of turning it into a murder mystery. </p>
