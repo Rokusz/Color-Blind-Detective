@@ -22,3 +22,12 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db020908-1e0d-4e2b-a58f-2e40efb8ab3f" alt="Nomral Vision">
 </p>
+
+### Design
+<p align="justify"> I have a condition where I get temporary retina sunburn induced colorblindness. In bright sun, I can’t see much green and orange. Naturally, it was my suggestion to make our project revolve around color blindness. The team also liked my suggestion of turning it into a murder mystery. 
+
+My original suggestion was to have 2 levels, where in one, you get to walk around in the house as the murder victim, and in the other, you get to walk around the house as the detective. You would switch between the realities with a button click at any time, appearing in the same house location. The differences would be that the victim is colorblind and the detective has normal vision, and some objects would be changed around the level. This would allow for more intricate puzzles, as the murder clues could be hidden in both realities. Furthermore, it would double the exploration value with little extra work required. Lastly, by keeping the level similar between realities, it would give a direct comparison of how colorblind people see the world.
+
+This did not happen for two reasons: we didn’t think we had nearly enough time to execute this idea, but more than that, my teammates said it was not “realistic.” Despite our client even stating that our project does not need to be grounded in reality. Ultimately, it was my vote against two others and two that were indifferent. 
+
+We finally decided to settle on a one level version, where the player has to solve a murder mystery puzzle whilst being able to switch between two types of colorblindness. </p>
