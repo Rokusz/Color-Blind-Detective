@@ -48,7 +48,3 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fcbd7686-0e59-4faf-bcf2-8828bbe53eff" alt="Nomral Vision">
 </p>
-<video src='https://github.com/user-attachments/assets/d20724e4-34dd-461c-b861-5edff356f863' width=180/>
-
-https://github.com/user-attachments/assets/d20724e4-34dd-461c-b861-5edff356f863
-
