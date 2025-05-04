@@ -32,3 +32,15 @@
 <p align="justify"> This did not happen for two reasons: we didn’t think we had nearly enough time to execute this idea, but more than that, my teammates said it was not “realistic.” Despite our client even stating that our project does not need to be grounded in reality. Ultimately, it was my vote against two others and two that were indifferent. </p>
 
 <p align="justify"> We finally decided to settle on a one level version, where the player has to solve a murder mystery puzzle whilst being able to switch between two types of colorblindness. </p>
+
+### Environment art
+
+<p align="justify"> Over a week and a half, I put together the living room of our level. </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/271580d4-20df-44d1-ae10-2b59682b0f1c" alt="Nomral Vision">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcbd7686-0e59-4faf-bcf2-8828bbe53eff" alt="Nomral Vision">
+</p>
