@@ -16,5 +16,9 @@
 <p align="justify"> As a team, we spent a lot of time researching and interviewing people with colorblindness (turns out there are more around you than you would ever expect). I conducted 2 interviews with colorblind people, and there were two main takeaways. First, problematic color combinations, such as red and green, are only really an issue when there is a lack of difference in saturation and brightness. Second, the interviewees said colorblindness is not tragically life-changing, but some tasks, such as identifying road signs, become incredibly difficult. Almost all the people our team interviewed named puzzles, both in video games and in real life, as incredibly difficult. These two findings pushed us to make our game experience into a puzzle game with parts of it that are completely invisible to one of the colorblindness types we chose. </p>
 
 <p align="justify"> Additionally, I was responsible for researching and implementing colorblindness simulations in Unity. Turns out you can’t just disable the red channel when rendering if you are red deficient. I ended up finding a mathematical formula that allows me to calculate the RGB values of the renderer to faithfully represent what colorblind people see. The final solution I made was a drag-and-drop settings preset that can be applied to the global post-process volume. These are the results: </p>
-<img src="https://github.com/user-attachments/assets/0d69c23c-d1c0-4cdb-b55a-3ee0dcba2dd7" alt="Nomral Vision">
-<img src="https://github.com/user-attachments/assets/db020908-1e0d-4e2b-a58f-2e40efb8ab3f" alt="Nomral Vision">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d69c23c-d1c0-4cdb-b55a-3ee0dcba2dd7" alt="Nomral Vision">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db020908-1e0d-4e2b-a58f-2e40efb8ab3f" alt="Nomral Vision">
+</p>
