@@ -23,6 +23,9 @@
   <img src="https://github.com/user-attachments/assets/db020908-1e0d-4e2b-a58f-2e40efb8ab3f" alt="Nomral Vision">
 </p>
 
+<p align="center">
+  <video src='https://github.com/user-attachments/assets/d20724e4-34dd-461c-b861-5edff356f863' width=180/>
+</p>
 ### Design
 
 <p align="justify"> I have a condition where I get temporary retina sunburn induced colorblindness. In bright sun, I can’t see much green and orange. Naturally, it was my suggestion to make our project revolve around color blindness. The team also liked my suggestion of turning it into a murder mystery. </p>
@@ -44,3 +47,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fcbd7686-0e59-4faf-bcf2-8828bbe53eff" alt="Nomral Vision">
 </p>
+<video src='https://github.com/user-attachments/assets/d20724e4-34dd-461c-b861-5edff356f863' width=180/>
+
+https://github.com/user-attachments/assets/d20724e4-34dd-461c-b861-5edff356f863
+
