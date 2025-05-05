@@ -41,6 +41,15 @@
 
 <p align="justify"> We finally decided to settle on a one level version, where the player has to solve a murder mystery puzzle whilst being able to switch between two types of colorblindness. </p>
 
+### My requirements for the level and puzzle designers
+
+<p align="justify"> Since this was my first VR project, I wanted to make sure that we played into VR's strengths. So, I made a list for the other designers to keep in mind, tying it to what is unique and fun to the players. </p>
+
++ Exploration in VR is more engaging, so place parts of the puzzle in different rooms.
++ You have the full range of motion; feel free to hide things in places you wouldn't in a traditional FPS game, but keep in mind that the player needs to find it, so affordances guiding the player towards it are a must.
++ Physics is a core part of VR. We should have at least a couple of objects that you can grab and carry around.
++ World scaling in VR is completely different than in 3rd or 1st person games. You can’t just use the 30% scaling rule, so if some objects look too small or too big - they are.
+
 ### Environment art
 
 <p align="justify"> Over a week and a half, I put together the living room of our level. </p>
