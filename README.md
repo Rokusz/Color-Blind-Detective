@@ -2,6 +2,10 @@
 ## Overview
 <p align="justify"> As a team of five, in 5 weeks we created a puzzle VR experience in which you investigate a murder in a small house as a colorblind detective. We were given a case from a real client, XR Lab (www.xr-lab.nl). We regularly met with our client, showing progress and asking for feedback, but ultimately, we had a lot of freedom. Our target audience was “Designers,” and we narrowed it down to visual designers. The goal of the project was to let designers get to know others, to allow them to be more considerate of the different needs of people when making their work. After a lot of back and forth, we settled on an experience through the eyes of a colorblind person. </p>
 
+<p align="center">
+  <video src='https://github.com/user-attachments/assets/68c75dfd-35aa-48be-a2ed-d60fd63c0e1b' width=180/>
+</p>
+
 ## My roles
 + Environent art (Living room)
 + Game designer
