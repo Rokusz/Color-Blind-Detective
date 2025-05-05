@@ -1,4 +1,10 @@
 # Colorblind-Detective
+
+## Download and tech overview
+You can download this project at: trinket-interactive.itch.io/color-blind-detective
+
+<p align="justify"> This project was made using the Meta Quest 3, but it works on any modern VR headset. We used Unity 6 URP. </p>
+
 ## Overview
 <p align="justify"> As a team of five, in 5 weeks we created a puzzle VR experience in which you investigate a murder in a small house as a colorblind detective. We were given a case from a real client, XR Lab (www.xr-lab.nl). We regularly met with our client, showing progress and asking for feedback, but ultimately, we had a lot of freedom. Our target audience was “Designers,” and we narrowed it down to visual designers. The goal of the project was to let designers get to know others, to allow them to be more considerate of the different needs of people when making their work. After a lot of back and forth, we settled on an experience through the eyes of a colorblind person. </p>
 
