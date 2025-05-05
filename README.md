@@ -1,7 +1,7 @@
 # Colorblind-Detective
 
 ## Download and tech overview
-You can download this project at: trinket-interactive.itch.io/color-blind-detective
+You can download this project at: https://trinket-interactive.itch.io/color-blind-detective
 
 <p align="justify"> This project was made using the Meta Quest 3, but it works on any modern VR headset. We used Unity 6 URP. </p>
 
